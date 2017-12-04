@@ -1,0 +1,11 @@
+.calc{list-style-type:none; padding: 5px; margin: 5px auto;  width: 100%; display: inline-block; }
+.calc li{text-align: center; border:1px solid #1c7430; margin: 5px; height: 20px; display: inline-block; padding: 20px;}
+.calc li:nth-child(even){background-color: #9acfea;}
+.calc li:nth-child(odd){background-color: #c8e5bc;}
+
+.listes{display: inline-block; background-color: #1c7430; color: #FFFFFF; width:300px; padding: 0; margin: 0;}
+.listes li{display: inline-block; background-color: #1c7430; color: #FFFFFF; width:300px; padding: 0; margin: 0;}
+.listes li input{display: inline-block; background-color: #ffffff; color: #000000; width:300px; padding: 0; margin: 0;}
+.btns_bas{background-color: #1c7430; margin: 50px auto; text-align: center;}
+.leslistes{background-color: #1c7430; margin: 50px auto; text-align: center;}
+.listes > li{padding: 10px 0;}

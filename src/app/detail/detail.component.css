@@ -1,0 +1,4 @@
+.erreur{background-color: #761c19;}
+.info{background-color: #2d8ac7;}
+.warning{background-color: #e0a800;}
+.erreur,.info,.warning{padding: 5px;}
